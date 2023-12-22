@@ -1,6 +1,6 @@
 <script></script>
 
-<h2>Accueil</h2>
+<h2>Accueil de Philippe</h2>
 
 
 <style lang="scss">
